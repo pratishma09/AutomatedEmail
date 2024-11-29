@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Downloads/Invitation"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Invitation"
+	}
+}
